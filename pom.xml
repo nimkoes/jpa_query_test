@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.nimkoes</groupId>
-	<artifactId>jpa-query</artifactId>
+	<artifactId>toy-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jpa-query</name>
-	<description>Demo project for Spring Boot</description>
+	<name>toy-api</name>
+	<description>toy project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
