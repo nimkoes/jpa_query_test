@@ -1,4 +1,4 @@
-package io.github.nimkoes.jpa_query;
+package io.github.nimkoes.toy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

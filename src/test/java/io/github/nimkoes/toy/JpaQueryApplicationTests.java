@@ -1,8 +1,8 @@
-package io.github.nimkoes.jpa_query;
+package io.github.nimkoes.toy;
 
-import io.github.nimkoes.jpa_query.entity.A;
-import io.github.nimkoes.jpa_query.entity.B;
-import io.github.nimkoes.jpa_query.repository.ARepository;
+import io.github.nimkoes.toy.entity.A;
+import io.github.nimkoes.toy.entity.B;
+import io.github.nimkoes.toy.repository.ARepository;
 import jakarta.persistence.EntityManager;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
